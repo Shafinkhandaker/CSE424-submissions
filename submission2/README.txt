@@ -1,17 +1,17 @@
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/A7916WFLPsg
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1NmdkKNgrn12RI_sNSSLnigAx36iFQotRO_x6gzc3zgw/edit?usp=sharing
 
 Paper title:
-NLP using ANN
+CamemBERT: a Tasty French Language Model
 
 Link to the paper:
-https://ieeexplore......
+https://aclanthology.org/2020.acl-main.645.pdf
 
 Group Number:
-0
+17
 
 Individual Submitter:
-12345678 Name A
+20301190 Sajidul Islam Khandaker 
