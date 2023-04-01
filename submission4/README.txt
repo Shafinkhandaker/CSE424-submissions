@@ -1,14 +1,14 @@
 Overleaf link with edit access to ST, RA and my gmail.
-https://www.overleaf.com/project/....
+https://www.overleaf.com/read/ybdygcqshdjk
 
 Unlisted YouTube video:
-http://youtube....
+https://www.youtube.com/watch?v=qH0fOOealzY&ab_channel=SAJIDULISLAMKHANDAKER
 
 Conference submitted paper / paper submission / login Link:
 https://easy....
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+Fine-tuning BERTweet for improved results on twitter sentiment analysis
 
 Paper presentation (anyone can view without login):
 http://slides.google.com/
@@ -25,11 +25,12 @@ Conference Name:
 Conference URL:
 http://confsite/...
 
-Group Number:
-0
+Project title:
+Twitter Hate Speech Detection
+Group Number: 17
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
+20301177 Showmick Kar
+20301190 Sajidul Islam Khandaker
+20301412 Tahmina Talukdar
+20301162 Shakil Anawar
